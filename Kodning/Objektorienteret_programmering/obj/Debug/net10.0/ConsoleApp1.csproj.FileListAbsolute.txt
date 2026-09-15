@@ -1,0 +1,15 @@
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/bin/Debug/net10.0/ConsoleApp1
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/oscarbraendgaard/Desktop/SDU/Kodning/Objektorienteret_programmering/obj/Debug/net10.0/ref/ConsoleApp1.dll
