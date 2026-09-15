@@ -22,10 +22,11 @@ public class Playercontroller : MonoBehaviour
         movementX = movementVector.x;
         movementY = movementVector.y;
     }
-
+public float speed = 0;
     void FixedUpdate()
     {
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
-        rb.AddForce(movement);
+        rb.AddForce(movement*speed);
+
     }
 }
