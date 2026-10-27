@@ -461,11 +461,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bb2efca2aebbc741ac2ae073a7b2117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Proceduralgeneration
-  width: 5
-  height: 10
-  seed: 
+  width: 60
+  height: 80
+  seed: Oscar
   useRandomSeed: 0
-  randomFillPercent: 47
+  randomFillPercent: 50
 --- !u!4 &933890875
 Transform:
   m_ObjectHideFlags: 0
