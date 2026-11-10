@@ -85,10 +85,27 @@ public class BoardManager : MonoBehaviour
         List<Vector2Int> path = new List<Vector2Int>();
         //The CarveHole function "makes a hole" (meant as a ground tile) in the specified position and saves it in the path list
         CarveHole(agentX, agentY, ref path);
-
-        /*
-         * IMPLEMENT SPELUNKY-LIKE PATH CONSTRUCTION HERE
-         */
+        int randomMovement = Random.Range(0,5);
+        while(!(agentX == Width-2 && agentY == Height-2))
+        {
+             randomMovement = Random.Range(0,5);
+             if(randomMovement == 0 || randomMovement == 1)
+            {
+                if(agentX >1)
+                agentX = agentX-1;
+            }
+            else if(randomMovement == 2 || randomMovement ==3)
+            {
+                if (agentX < width-2)
+                agentX = agentX+1;
+            }
+            else if(randomMovement == 4)
+            {
+                if(agentY <height-2)
+                agentY = agentY+1;
+            }
+             CarveHole(agentX, agentY, ref path);
+     }
 
         //Finally we fill all positions not part of path with walls
         CarveEntirePath(path);
